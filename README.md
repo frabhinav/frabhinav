@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frabhinav&label=Profile%20views&color=0e75b6&style=flat" alt="frabhinav" /> </p>
 
-- 🌱 I’m currently learning **Web development and DSA**
-
 - 📫 How to reach me **frabhinav709@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
