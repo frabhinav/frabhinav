@@ -1,5 +1,7 @@
 #  👋 Hello
-<br> I’m Abhinav Karn – a final-year Computer Science student and passionate Frontend Developer.<br>💻 I build clean, responsive UIs with React, Tailwind, and currently exploring React Native for mobile apps.<br>✅ Completed a drone + AI project focused on smart agriculture.<br>🧠 I enjoy solving DSA problems and constantly learning new tech.
+<br>Code. Optimize. Ship. Repeat.
+<br>Full Stack Developer building scalable apps with real users, real impact, and continuous improvements.
+<br>Currently exploring Generative AI.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frabhinav&label=Profile%20views&color=0e75b6&style=flat" alt="frabhinav" /> </p>
 
